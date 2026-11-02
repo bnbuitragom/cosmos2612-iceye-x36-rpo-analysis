@@ -70,7 +70,8 @@ It was executed with Python 3.11 and `sgp4` 2.27.
 4. Relative motion in the local RIC frame of ICEYE-X36 and closest-approach refinement at 1 s.
 5. Hypothesis test with manoeuvre-free (ballistic) counterfactual propagations: need for manoeuvres (R1), direction of
    the effect (R3) and per-object attribution (R2).
-6. Bias assessment: parameter sensitivity (K, proximity threshold, error percentile) and negative controls. The original
+6. Bias assessment: parameter sensitivity (K, proximity threshold, error percentile), negative controls and a
+   synthetic-data check with known truth (natural passes and manoeuvre-induced approaches). The original
    and the revised decision rules are both kept in the notebook, and the revision is declared explicitly.
 
 ## Author
