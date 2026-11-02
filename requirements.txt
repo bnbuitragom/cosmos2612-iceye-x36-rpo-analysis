@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+matplotlib>=3.8
+sgp4>=2.23
+requests>=2.31
+jupyter
