@@ -15,7 +15,7 @@ require manoeuvres, and by which object?
 - The null hypothesis (natural evolution) is rejected in all 18 parameter combinations tested. The encounter required
   manoeuvres by Cosmos 2612; no manoeuvres by ICEYE-X36 are needed to reproduce the observations.
 - Identified sequence for Cosmos 2612: plane match (May), phasing drift from an orbit ≈47 km higher, orbit matching
-  ≈454 km behind the target, approach (15–18 October) and a manoeuvred retreat, with a minimum cumulative Δv of 174–186 m/s.
+  ≈454 km behind the target, approach (15–18 October) and a manoeuvred retreat, with a minimum cumulative Δv of 174–180 m/s.
 - Kinematic data cannot establish whether the operation was cooperative, nor its purpose.
 
 ## Repository structure
