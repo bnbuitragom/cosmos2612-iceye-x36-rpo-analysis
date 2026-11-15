@@ -1,0 +1,26 @@
+quantity,value
+Drift: altitude B - A (km),47.53887896717242
+Drift: mean motion A (rev/day),15.07725514
+Drift: mean motion B (rev/day),14.92330931
+Drift: synodic period (days),6.495791409224936
+Drift: median local velocity (m/s),79.44653194641376
+Parking: median separation (km),453.908215858554
+Parking: median local velocity (m/s),0.703804503210511
+Approach: separation at start of 15 Oct (km),426.8085097714444
+"Approach: altitude B - A, 15-16 Oct (km)",-2.3938642211669503
+"Retreat: altitude B - A, 18T12-20 Oct (km)",2.4949612712925955
+Retreat: median separation 20 Oct 12 UTC - 23 Oct 12 UTC (km),478.2577563134924
+Retreat: drift rate from 23 Oct 12 UTC (km/day),4.029760517895488
+Retreat: separation at end of window (km),494.4031543045499
+Stale-TLE interval 15 Oct 01:37 - 15 Oct 15:56: in-track min / max (km),-424.6 / -408.9
+Stale-TLE interval 16 Oct 04:40 - 16 Oct 14:14: in-track min / max (km),-34.6 / 100.1
+Stale-TLE interval 18 Oct 12:25 - 18 Oct 23:34: in-track min / max (km),-18.8 / -9.1
+Stale-TLE interval 19 Oct 20:17 - 20 Oct 07:26: in-track min / max (km),-644.3 / -479.2
+"RIC in-track, 13-27 Oct, other intervals: min (km)",-499.2843290123326
+"RIC in-track, 13-27 Oct, other intervals: max (km)",0.5432355911876242
+"Δv since May, z > 20 events (Table 3): net (m/s)",173.71874784219946
+"Δv since May, z > 20 events (Table 3): gross (m/s)",179.41212463358605
+"Δv since May, all events: net (m/s)",174.04048072701192
+"Δv since May, all events: gross (m/s)",179.6685393188689
+"Plane match share of total Δv, all events (%)",65.35371671813716
+"Plane match share of total Δv, all events, net (%)",67.46710174987716
