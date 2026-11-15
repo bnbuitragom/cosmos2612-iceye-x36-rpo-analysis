@@ -24,3 +24,23 @@ Stale-TLE interval 19 Oct 20:17 - 20 Oct 07:26: in-track min / max (km),-644.3 /
 "Δv since May, all events: gross (m/s)",179.6685393188689
 "Plane match share of total Δv, all events (%)",65.35371671813716
 "Plane match share of total Δv, all events, net (%)",67.46710174987716
+"TLE interval, ICEYE-X36: median / p99 (h)",6.4 / 25.5
+"TLE interval, Cosmos 2612: median / p99 (h)",8.0 / 23.9
+Reference pairs used for the error (ICEYE / Cosmos / total),2744 / 2343 / 5087
+Error / eps95 in the reference pairs: max,2.2502971825042852
+Reference pairs with error > 2 eps95 / > 3 eps95,4 / 0
+"Grouping gap 0.5 d: Δv since May, net / gross (m/s)",176.89 / 179.67
+"Grouping gap 1.0 d: Δv since May, net / gross (m/s)",174.04 / 179.67
+"Grouping gap 1.5 d: Δv since May, net / gross (m/s)",174.04 / 179.67
+"Grouping gap 2.0 d: Δv since May, net / gross (m/s)",174.04 / 179.67
+"Grouping gap 3.0 d: Δv since May, net / gross (m/s)",173.98 / 179.61
+Plane angle 2026-04-18 - 2026-04-21: median (deg),3.0000511940599903
+Plane angle 2026-05-12 - 2026-05-15T12: median (deg),0.8963992061777497
+Plane angle 2026-05-17 - 2026-05-20: median (deg),0.04800086765254394
+Plane angle 2026-09-25 - 2026-09-30: median (deg),0.2313732106256687
+Plane angle 2026-10-09 - 2026-10-10T12: median (deg),0.06378551973681665
+Plane angle 2026-10-13 - 2026-10-17: median (deg),0.0025567894980659993
+Inclination ICEYE-X36: before 15 May / 17 May - 31 Aug (deg),97.829 / 97.840
+Inclination Cosmos 2612: before 15 May / 17 May - 31 Aug (deg),96.961 / 97.857
+"Cosmos 2612, 15-21 Oct event: flagged / consecutive TLE pairs",11 / 18
+Distance on 18 Oct 01:35 UTC (km),0.6515885358166498
