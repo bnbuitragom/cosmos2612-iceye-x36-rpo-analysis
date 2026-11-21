@@ -25,8 +25,9 @@ require manoeuvres, and by which object?
 ├── cosmos2612_iceye-x36_proximity_analysis.ipynb   # complete analysis (all figures and tables)
 ├── src/download_data.py                             # downloads the GP history from Space-Track
 ├── data/                                            # empty: the downloaded CSV is written here (not versioned)
-├── outputs/                                         # figures and derived result tables produced by the notebook
-└── requirements.txt
+├── outputs/                                         # figures (PNG; vector PDF in outputs/pdf) and derived result tables
+├── requirements.txt
+└── LICENSE                                          # MIT
 ```
 
 ## Data availability
@@ -46,8 +47,8 @@ raw element sets.
 ## How to reproduce
 
 ```bash
-git clone <this repository>
-cd <repository folder>
+git clone https://github.com/bnbuitragom/cosmos2612-iceye-x36-rpo-analysis.git
+cd cosmos2612-iceye-x36-rpo-analysis
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
@@ -74,6 +75,11 @@ It was executed with Python 3.11 and `sgp4` 2.27.
 6. Bias assessment: parameter sensitivity (K, proximity threshold, error percentile), negative controls and a
    synthetic-data check with known truth (natural passes and manoeuvre-induced approaches). The original
    and the revised decision rules are both kept in the notebook, and the revision is declared explicitly.
+
+## License
+
+The code is released under the MIT License (see `LICENSE`). The Space-Track data are not covered by this license and
+remain subject to the Space-Track.org User Agreement.
 
 ## Author
 
