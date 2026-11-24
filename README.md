@@ -4,6 +4,8 @@ Reproducible analysis of the October 2026 close approach between **Cosmos 2612**
 commercial SAR satellite **ICEYE-X36** (NORAD 59103), based only on the public general perturbations (GP)
 element history from Space-Track.org and SGP4 propagation.
 
+**Preprint:** [arXiv:2611.29531](https://arxiv.org/abs/2611.29531) (submitted to *Acta Astronautica*).
+
 The analysis is posed as a hypothesis test: can the encounter be explained by natural orbital evolution, or did it
 require manoeuvres, and by which object?
 
